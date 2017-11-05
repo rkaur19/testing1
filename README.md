@@ -1,3 +1,5 @@
+this is just for testing
+
 # Passport-Remember Me
 
 [Passport](http://passportjs.org/) strategy for authenticating based on a
